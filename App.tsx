@@ -4,7 +4,7 @@ import { CategoryFilter } from "./components/CategoryFilter";
 import { FoodCard, FoodItem } from "./components/FoodCard";
 import { BusinessDashboard } from "./components/BusinessDashboard";
 import { PurchaseModal } from "./components/PurchaseModal";
-import { Toaster, toast } from "sonner@2.0.3";
+import { Toaster, toast } from "sonner";
 import { MapPin, Search } from "lucide-react";
 import { Input } from "./components/ui/input";
 
